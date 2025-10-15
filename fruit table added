@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Məhsul Cədvəli</title>
+</head>
+
+<body>
+    <table border="1" cellspacing="0" cellpadding="8">
+        <thead>
+            <tr>
+                <th>Məhsulun adı</th>
+                <th>Qiyməti</th>
+                <th>Miqdarı</th>
+                <th>Cəmi</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Mango</td>
+                <td>1.20</td>
+                <td>5</td>
+                <td>6.00</td>
+            </tr>
+
+            <tr>
+                <td>Ananas</td>
+                <td>3.00</td>
+                <td>3</td>
+                <td>9.00</td>
+            </tr>
+
+            <tr>
+                <td>Portağal</td>
+                <td>1.50</td>
+                <td>4</td>
+                <td>6.00</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="3"><b>Ümumi məbləğ</b></td>
+                <td><b>21.00 ₼</b></td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
